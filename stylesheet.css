@@ -1,0 +1,16 @@
+
+div {
+    height:100px;
+    width:100px;
+    display: inline-block;
+}
+
+#records {
+	height:100px;
+    width:100px;
+	display: inline;
+}
+
+#red {
+    background-color:rgb(30,255,50);
+}
