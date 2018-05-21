@@ -31,7 +31,7 @@ RGB maxes out at 255 while the potentiometer maxes out at 1024 so color changes 
 ## Built With
 
 * Jquery
-*AJAX
+* AJAX
 
 
 ## Contributing
@@ -41,7 +41,6 @@ for you and what I could improve on for future projects.
 ## Authors
 
 * **Skyler Robbins**
-
 
 ## Acknowledgments
 * Circuits4you.com has a great tutorial on sending POST requests with arduino's. I used most of the code they created for the nodeMCU
